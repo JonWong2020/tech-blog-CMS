@@ -54,7 +54,7 @@
   
   * Repo:  https://github.com/JonWong2020/tech-blog-CMS/
 
-  * Live Site:  
+  * Live Site:  https://mysterious-ocean-16863.herokuapp.com/
 
   ## Questions
   Have questions about this project?  
