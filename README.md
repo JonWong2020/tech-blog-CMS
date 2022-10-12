@@ -16,7 +16,7 @@
   A CMS style blog site where you can post about various tech topics as well as comment on posts that were created.  You will also be able to create your own account to view your posts, edit, and delete them as well.
   
   ## Usage
-  To use the applicaiton you can clone the repository.  Once cloned, you will needs Node.js installed as well to run the commands in the CLI, (Command Line Inteface), of your console's terminal along with mySQL to create the database and seed the data.  To start the application you can run `node index.js` or `npm run start` in the console and once the database is created, you can run `node seed/index.js` in your terminal to seed example data into the database.
+  To use the applicaiton you can clone the repository.  Once cloned, you will needs Node.js installed as well to run the commands in the CLI, (Command Line Inteface), of your console's terminal along with mySQL to create the database and seed the data.  To start the application you can run `node index.js` or `npm run start` in the console and once the database is created, you can run `node seed/index.js` in your terminal to seed example data into the database.  A link to the deployed application can be found in the `Links` section under the tab `Live Site`.
   
   ## Licenses
     This project is covered under MIT license.  Click on the license badge at the top of the README to learn more.
@@ -53,6 +53,8 @@
   ## Links 
   
   * Repo:  https://github.com/JonWong2020/tech-blog-CMS/
+
+  * Live Site:  
 
   ## Questions
   Have questions about this project?  
